@@ -32,3 +32,20 @@ we will find pass(u3qh458) y user (48w3756)
 `1011 0000 0000 1011` *B     0    0    B*
 
 `1111 1110 1110 1101` *F   E    E   D*
+
+##   9 Hackthis :  ##
+**show hint** : _The developer has now added a feature that allows him to get a password reminder. Can you exploit it to send you the login details instead?_
+
+in value gmail valid
+```
+<input name="email2" id="email2" value="miller@gmail.com" autocomplete="off" type="hidden">
+```
+write igual in Email input
+
+## 10 Hackthis ##
+
+html
+```
+<input name="passwordfile" value="level10pass.txt" type="hidden">
+```
+![](10.png)
