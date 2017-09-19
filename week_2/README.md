@@ -93,5 +93,5 @@ var pass;
 ![lampp](lampp.png)
 ![php hello](hello_php.png)
 * DVWA
-![dvwa](DVWA.png)
+
 ![dvwa](DVWA_1.png)
