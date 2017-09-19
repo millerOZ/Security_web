@@ -14,7 +14,7 @@ PHPSESSID -> ai879ek3mu6idmspkm6muh57h4 machine local
 
 ![](mint_phpS_de_kali.png)
 ![](mint_into_phpS.png)
-## mint - kali##
+## mint - kali ##
 
 
 ![](mint_phpSessid.png)
